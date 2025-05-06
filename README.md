@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/santiago-b-taborda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-b-taborda" height="30" width="40" /></a>
 </p>
-<a href="santy04bt@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="santy04bt@gmail.com" height="30" width="40" /></a>
+<a href="mailto:santy04bt@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="santy04bt@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

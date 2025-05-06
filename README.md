@@ -2,7 +2,7 @@
 
 <p align="center">Un desarrollador fullStack developer dedicado al desarrollo web, viviendo actualmente en Córdoba, Argentina, he decidido dedicarme a la programación, ya que la rama de TI siempre me llama la atención. Por lo cual he realizado varios proyectos aplicando tecnologías como TypeScript, Next.js, React, Vite, Tailwind y enfocandome en cosas como UX y UI.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-taborda&label=Profile%20views&color=48f000&style=flat" alt="santiago-taborda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-taborda&label=Profile%20views&color=00be23&style=flat" alt="santiago-taborda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago-taborda" alt="santiago-taborda" /></a> </p>
 

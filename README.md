@@ -1,21 +1,99 @@
-<h1 align="center">¡Que tal! soy Santiago Taborda</h1>
+# 👋 Hola, soy **Santiago Taborda**
 
-<p align="center">Un desarrollador fullStack developer dedicado al desarrollo web, viviendo actualmente en Córdoba, Argentina, he decidido dedicarme a la programación, ya que la rama de TI siempre me llama la atención. Por lo cual he realizado varios proyectos aplicando tecnologías como TypeScript, Next.js, React, Vite, Tailwind y enfocandome en cosas como UX y UI.</p>
+**Full‑Stack Web Developer** — Córdoba, Argentina  
+**Stack:** TypeScript · Next.js · React · Vite · Tailwind CSS · Node/NestJS · Electron · PostgreSQL · TypeORM
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-taborda&label=Profile%20views&color=00be23&style=flat" alt="santiago-taborda" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiago--b--taborda-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-b-taborda/)  
+[![Email](https://img.shields.io/badge/Email-santy204bt%40gmail.com-informational?logo=gmail)](mailto:santy204bt@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago-taborda" alt="santiago-taborda" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiago-b-taborda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-b-taborda" height="30" width="40" /></a>
-<a href="mailto:santy04bt@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="santy04bt@gmail.com" height="30" width="40" /></a>
-</p>
+## 🧭 Sobre mí
+Soy desarrollador **Full‑Stack** orientado a producto, con foco en **rendimiento**, **UX/UI** y **seguridad** (protección de rutas y endpoints). Me entusiasma construir interfaces limpias, accesibles y escalables. También disfruto el audio: hago **mezcla y masterización** con **Reaper**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer" style={{background: "white"}}> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 👨‍💻 Actualmente: **Full Stack Developer** (Electron + TypeScript) — app de escritorio con manejo de roles y vistas responsivas.
+- 🎯 Busco aportar en equipos donde pueda **iterar rápido**, **medir impacto** y **colaborar** de cerca con diseño y producto.
+- 📬 Contacto rápido: **santy204bt@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-taborda&show_icons=true&title_color=ffde38&text_color=ffffff&bg_color=121540&hide_border=true&locale=es" alt="santiago-taborda" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiago-taborda&" alt="santiago-taborda" /></p>
+## 🚀 Proyectos destacados
+
+### 1) TecniClick — marketplace de oficios (LATAM)
+**Next.js + Tailwind + Stripe + NextAuth | NestJS + PostgreSQL + TypeORM**  
+Plataforma para **ofrecer y contratar servicios**, con **búsqueda/filtrado**, **perfiles con roles**, **pasarela de pagos** (Stripe), **rutas protegidas**, notificaciones de estado (Sonner) y diseño 100% responsivo.
+
+- 🔐 **Rutas sensibles** según rol con redirecciones automáticas.
+- 📱 **Responsive** mobile → desktop con Tailwind.
+- 💳 **Stripe** para cuentas premium de proveedores (validaciones + toasts en tiempo real).
+- 🧩 Monorepo `front/` y `back/`.
+
+**Demo:** https://tecniclickfrontend.vercel.app/  
+**Repo:** https://github.com/Santiago-Taborda/TecniClick
+
+---
+
+### 2) ColdFire — e‑commerce tech
+**TypeScript + Vite + (Vue/React) + Tailwind | PostgreSQL**  
+Carrito de compras con **agregar/remover**, **checkout** y **modo oscuro automático** (detecta preferencia del SO) para mejorar la UX.
+
+**Repo:** https://github.com/Santiago-Taborda/ColdFire
+
+---
+
+### 3) Spotify Cover HD — carátulas en máxima calidad
+**HTML + CSS + JavaScript**  
+Web para **obtener portadas HD** de álbumes, artistas, playlists o tracks, pegando el enlace de Spotify.
+
+**Repo:** https://github.com/Santiago-Taborda/Spotify_covers
+
+---
+
+## 🧪 Experiencia
+**Full Stack Developer — The Leukemia & Lymphoma Society** *(may. 2025 – presente, remoto)*  
+**Electron + TypeScript.** Conecté Front ↔ Back para CRUD de datos; definí **vistas y permisos por rol**, formularios de creación/edición y **responsividad**. Participación en arquitectura y componentes de filtrado/búsqueda.
+
+---
+
+## 🎓 Formación & Certificaciones
+- **Full‑Stack Web Developer — Henry** *(jul. 2024 – may. 2025)*
+- **EF SET English Certificate — B2 (51/100)**
+- **Certificado Henry** *(ID: b9c28733-f256-49b1-8956-04757416b916)*
+
+---
+
+## 🧰 Tech Stack
+
+[![Tech](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,nestjs,electron,vite,vue,tailwind,postgres,mongodb,express,git,vercel&perline=9)](https://skillicons.dev)
+
+**También:** TypeORM · Stripe · NextAuth · Swagger · Render · Cloudinary · Jira · Confluence · Slack
+
+---
+
+## 📊 Un vistazo a mis stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santiago-Taborda&show_icons=true&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Taborda&layout=compact&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=Santiago-Taborda&hide_border=true)
+
+> Tip: si algún widget no carga por límites de la API, recarga la página o vuelve más tarde.
+
+---
+
+## 📫 Hablemos
+- ✉️ **Email:** [santy204bt@gmail.com](mailto:santy204bt@gmail.com)
+- 💼 **LinkedIn:** [santiago-b-taborda](https://www.linkedin.com/in/santiago-b-taborda/)
+- 🎧 **Audio (Reaper):** abierto a colaborar en mezcla/mastering para proyectos indie.
+
+---
+
+### ✅ Próximos pasos (roadmap personal)
+- [ ] Publicar **screenshots/gifs** de cada proyecto en los READMEs.
+- [ ] Agregar **tests E2E** (Playwright/Cypress) a los proyectos web.
+- [ ] Subir **releases** y **Issues** con etiquetas (good first issue) para colaborar.
+- [ ] Mejorar SEO/metadata (Open Graph) en portfolio y proyectos.
+
+---
+
+> ¿Ideas o feedback? ¡Son más que bienvenidas! Abre un **Issue** o escríbeme por **LinkedIn**.
 

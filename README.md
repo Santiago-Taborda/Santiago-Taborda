@@ -45,6 +45,7 @@ Carrito de compras con **agregar/remover**, **checkout** y **modo oscuro automá
 **HTML + CSS + JavaScript**  
 Web para **obtener portadas HD** de álbumes, artistas, playlists o tracks, pegando el enlace de Spotify.
 
+**Demo:** https://santiago-taborda.github.io/Spotify_covers/
 **Repo:** https://github.com/Santiago-Taborda/Spotify_covers
 
 ---
